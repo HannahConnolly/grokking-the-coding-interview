@@ -124,8 +124,8 @@ grokking-solutions/
 I’ll maintain a section like this to show where I stand:
 
 * ✅ Warmup
-* ✅ Two Pointers
-* 🔄 Fast & Slow Pointers (in progress)
+* 🔄 Two Pointers
+* ❌ Fast & Slow Pointers (in progress)
 * ❌ Sliding Window
 * ❌ Merge Intervals
 * ❌ Cyclic Sort
